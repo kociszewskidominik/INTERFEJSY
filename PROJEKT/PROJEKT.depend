@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1763331628 source:d:\codeblocksinterfejsy\projekt\main.cpp
-	<windows.h>
-	<iostream>
-	<fstream>
-	<string>
-
